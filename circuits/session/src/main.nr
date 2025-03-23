@@ -19,7 +19,6 @@ fn main(
     deposit_amount: u64,
     
     end_time: u64,
-    
     original_end_time: u64,
     new_end_time: u64,
     
